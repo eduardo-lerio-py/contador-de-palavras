@@ -17,10 +17,8 @@ Script em Python que recebe uma frase digitada no terminal, conta quantas palavr
 ## Como rodar
 
 ```bash
-python contador_palavras.py
+python contador_de_palavras.py
 ```
-
-Troque `contador_palavras.py` pelo nome real do seu arquivo.
 
 ## Exemplo de uso
 
